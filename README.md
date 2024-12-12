@@ -44,4 +44,4 @@ So the solution here is pretty simple: reduce the max delta time to be as low as
 [Unity Execution Order](https://docs.unity3d.com/Manual/execution-order.html) \
 [Unity Time](https://docs.unity3d.com/ScriptReference/Time.html)
 
-Thumbnail source: Screenshot I took while using the mod on [Debugging Plains](https://thunderstore.io/c/riskofrain2/p/Dragonyck/DebuggingPlains/).
+Thumbnail source: Screenshot I took while using the mod on [Debugging Plains](https://thunderstore.io/c/riskofrain2/p/Dragonyck/DebuggingPlains/) ([Original](https://github.com/user-attachments/assets/decca44b-14ac-4d69-b52c-63fba0f93dbc)).
